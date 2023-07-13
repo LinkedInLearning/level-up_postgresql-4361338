@@ -28,8 +28,8 @@
       "port": 5432,
       "driver": "PostgreSQL",
       "name": "PostgreSQL Database",
-      "database": "postgres",
-      "username": "postgres",
+      "database": "linkedin",
+      "username": "vscode",
       "password": "postgres"
     }
   ],
