@@ -1,0 +1,12 @@
+INSERT INTO orders (purchase_total, timestamp, customer_id)
+VALUES 
+(77.96, CURRENT_DATE - 5, 4),
+(500.13, CURRENT_DATE - 1, 4),
+(24.14, CURRENT_DATE - 10, 5),
+(123.45, CURRENT_DATE - 5, 5),
+(90.90, CURRENT_DATE, 4),
+(45.01, CURRENT_DATE, 6),
+(72.83, CURRENT_DATE - 7, 5),
+(11.21, CURRENT_DATE - 2, 6),
+(86.23, CURRENT_DATE - 3, 7),
+(224.35, CURRENT_DATE, 8);
